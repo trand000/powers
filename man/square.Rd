@@ -13,7 +13,7 @@ square(x)
 Description of the return value.
 }
 \description{
-A short description of what the function does.
+A short description of what the function does OK.
 }
 \examples{
 square(3)

@@ -1,6 +1,6 @@
 #' Title of the Function
 #'
-#' @description A short description of what the function does.
+#' @description A short description of what the function does OK.
 #'
 #' @param x Description of the first argument.
 #'
