@@ -4,7 +4,7 @@
 #'
 #' @param x Description of the first argument XX.
 #'
-#' @return Description of the return value.
+#' @return Description of the return value ZZ.
 #' @examples
 #' square(3)
 #'
