@@ -2,7 +2,7 @@
 #'
 #' @description A short description of what the function does OK.
 #'
-#' @param x Description of the first argument.
+#' @param x Description of the first argument XX.
 #'
 #' @return Description of the return value.
 #' @examples
@@ -12,3 +12,4 @@
 square <- function(x) {
   x^2
 }
+

@@ -7,7 +7,7 @@
 square(x)
 }
 \arguments{
-\item{x}{Description of the first argument.}
+\item{x}{Description of the first argument XX.}
 }
 \value{
 Description of the return value.
