@@ -10,7 +10,7 @@ square(x)
 \item{x}{Description of the first argument XX.}
 }
 \value{
-Description of the return value.
+Description of the return value ZZ.
 }
 \description{
 A short description of what the function does OK.
